@@ -18,7 +18,7 @@ engine = create_engine(
 inspector = SA.inspect(engine)
 
 #loop over tables in DB
-for t in inspector.get_table_names('vision'):
+for t in inspector.get_table_names('my_great_schema'):
     tables_in_database.append(t)
 
 #Initialize pyLookML project (see lookml docs, this is local files for simplicity.
