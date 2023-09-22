@@ -25,7 +25,7 @@ lookml==3.0.3
 numpy==1.23.1
 packaging==21.3
 proto-plus==1.22.0
-protobuf==3.20.1
+protobuf==3.20.2
 pyarrow==6.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
