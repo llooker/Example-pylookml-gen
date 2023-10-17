@@ -41,5 +41,5 @@ rsa==4.9
 six==1.16.0
 SQLAlchemy==1.4.27
 sqlalchemy-bigquery==1.4.4
-urllib3==1.26.11
+urllib3==1.26.18
 wrapt==1.14.1
